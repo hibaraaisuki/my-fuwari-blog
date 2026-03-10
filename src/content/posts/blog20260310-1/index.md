@@ -2,6 +2,7 @@
 title: 我的第一篇博客（测试）
 published: 2026-03-10
 description: 这是我用来测试显示效果的博客，后续所有的效果都在这里测试。
+image: "./cover.jpg"
 tags: [测试,样例]
 category: 测试
 draft: false
