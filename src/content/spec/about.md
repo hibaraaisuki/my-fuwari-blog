@@ -1,19 +1,28 @@
 # 关于
+本站用于记录博主的一些教程和日常，没有统一的主题。<br>
+博主最喜欢的二次元角色是灰原哀。:spoiler[ (也可以是**宫野志保**)]<br>
+这个网站的代码项目是开源的，需要参考的伙伴可以直接使用。
 
-## 博客主题
+::github{repo="hibaraaisuki/my-fuwari-blog"}
 
-博客主题的创作者是 [Fuwari](https://github.com/saicaca/fuwari)，这是ta的Github个人页面。
+
+## 外观主题
+网站的外观主题是 [Fuwari](https://github.com/saicaca/fuwari)。
+
 ::github{repo="saicaca/fuwari"}
+
 
 ## 图片源
 本网站所使用的图片源自以下作者和网站。
+
 > - 头像：[biu~](https://www.pixiv.net/artworks/140680748) by [场](https://www.pixiv.net/users/105005255)
 > - 主页海报：[旖旎](https://www.pixiv.net/artworks/137231517) by [狄里](https://www.pixiv.net/users/19224387) 
 
-## 版权问题
-本网站为个人网站，没有商业用途，如侵权请联系我，我会马上删除！<br>
+:::important
+本网站为个人分享网站，没有商业用途，如侵权请联系我，我会马上删除！<br>
 If there is any infringement, please contact me for deletion.<br>
-Email：443577815@qq.com<br>
+Email：443577815@qq.com
+:::
 
 <!-- > - [Unsplash](https://unsplash.com/)
 > - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
