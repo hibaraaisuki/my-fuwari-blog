@@ -1,13 +1,14 @@
 # 关于
 本站用于记录博主的一些教程和日常，没有统一的主题。<br>
 博主最喜欢的二次元角色是灰原哀。:spoiler[ (也可以是**宫野志保**)]<br>
-这个网站的代码项目是开源的，需要参考的伙伴可以直接使用。
+整个网站的代码都是开源的，需要参考的伙伴可以直接使用。<br>
+:spoiler[ (都是别人的代码，我只是负责编辑Markdown帖子。**/笑哭**)]
 
 ::github{repo="hibaraaisuki/my-fuwari-blog"}
 
 
 ## 外观主题
-网站的外观主题是 [Fuwari](https://github.com/saicaca/fuwari)。
+网页的外观主题是 [Fuwari](https://github.com/saicaca/fuwari)。
 
 ::github{repo="saicaca/fuwari"}
 
