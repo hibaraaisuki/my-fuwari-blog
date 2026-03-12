@@ -17,7 +17,7 @@
 本网站所使用的图片源自以下作者和网站。
 
 > - 头像：[biu~](https://www.pixiv.net/artworks/140680748) by [场](https://www.pixiv.net/users/105005255)
-> - 主页海报：[旖旎](https://www.pixiv.net/artworks/137231517) by [狄里](https://www.pixiv.net/users/19224387) 
+> - 主页海报：[starsand island](https://anime-pictures.net/posts/892535) 
 
 :::important
 本网站为个人分享网站，没有商业用途，如侵权请联系我，我会马上删除！<br>
