@@ -5,7 +5,7 @@ description: 这是我用来测试显示效果的博客，后续所有的效果�
 image: "./cover.jpg"
 tags: [测试,样例]
 category: 测试
-draft: false
+draft: true
 ---
 
 <!-- Just copy the embed code from YouTube or other platforms, and paste it in the markdown file.
