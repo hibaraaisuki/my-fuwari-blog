@@ -22,7 +22,7 @@ export const siteConfig: SiteConfig = {
 		credit: {
 			enable: true, // Display the credit text of the banner image
 			text: "starsand island", // Credit text to be displayed
-			url: "https://oimages.anime-pictures.net/308/308dc0ac140f1d1626fcd7e07771d93a.png?if=ANIME-PICTURES.NET_-_892535-3840x2160-starsand+island-solara-serena+%28starsand+island%29-aurelis+%28starsand+island%29-pastelle+%28starsand+island%29-delfin+%28starsand+island%29.png", // (Optional) URL link to the original artwork or artist's page
+			url: "https://anime-pictures.net/posts/892535", // (Optional) URL link to the original artwork or artist's page
 		},
 	},
 	toc: {
