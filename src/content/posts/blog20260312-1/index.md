@@ -3,9 +3,9 @@ title: Git常用命令
 published: 2026-03-12
 description: 简单记一下会用到的git命令。
 image: "./cover.jpeg"
-tags: [git, 笔记]
+tags: [Git]
 category: 笔记
-draft: false
+draft: true
 ---
 
 ## 🖥️ Git Bash 快捷键

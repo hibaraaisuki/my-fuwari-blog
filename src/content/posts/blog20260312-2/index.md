@@ -3,9 +3,9 @@ title: Astro本地调试
 published: 2026-03-12
 description: 记录一下本地调试的常用命令。
 image: "./cover.jpg"
-tags: [Astro,笔记]
+tags: [Astro]
 category: 笔记
-draft: false
+draft: true
 ---
 
 ## 🖥️ 启动开发服务器
