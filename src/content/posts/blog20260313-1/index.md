@@ -91,7 +91,9 @@ draft: false
 Git 用来管理你博客的所有文件版本，方便你后期更新和维护。更重要的是，它能让你轻松地从 GitHub 上获取博客主题。
 
 1.  **下载 Git**：访问 Git 官网 ([https://git-scm.com/downloads](https://git-scm.com/downloads))，根据你的操作系统（Windows, macOS, Linux）下载对应的安装包。
+    ![预览图](./git-install.png) 
 2.  **安装 Git**：运行下载的安装包，一路使用默认选项点击“下一步”即可完成安装。
+    ![预览图](./git-install-2.png) 
 3.  **验证安装**：
     *   **Windows用户**：在开始菜单搜索“命令提示符”或“PowerShell”并打开。
     *   **macOS/Linux用户**：打开“终端”应用。
@@ -105,8 +107,10 @@ Git 用来管理你博客的所有文件版本，方便你后期更新和维护�
 
 Node.js 是让 Astro 能够在本地运行预览效果的基础环境。
 
-1.  **下载 Node.js**：访问 Node.js 官网 ([https://nodejs.org/](https://nodejs.org/))。建议下载 **LTS（长期支持版）**，因为它更稳定。同样，选择适合你操作系统的安装包。
+1.  **下载 Node.js**：访问 Node.js 官网 ([https://nodejs.org/zh-cn/download](https://nodejs.org/zh-cn/download))。建议下载 **LTS（长期支持版）**，因为它更稳定。同样，选择适合你操作系统的安装包。
+    ![预览图](./node-install.png)
 2.  **安装 Node.js**：运行下载的安装包，同样使用默认选项安装即可。
+    ![预览图](./node-install-2.png)
 3.  **验证安装**：
     *   在刚才的命令窗口（终端或命令提示符）中，输入以下命令并按回车：
         ```bash
@@ -117,6 +121,10 @@ Node.js 是让 Astro 能够在本地运行预览效果的基础环境。
 ### 安装 pnpm (高效的包管理器)
 
 pnpm 是一个用于下载和管理 Astro 所需依赖包的工具，它比 Node.js 自带的 npm 更快、更节省磁盘空间。
+
+:::note
+**注意**：如果是windows系统，建议`win + R`，输入`cmd`回车，打开**命令提示符**进行操作，普通终端可能不认npm的路径。
+:::
 
 1.  **安装 pnpm**：
     *   在命令窗口中，输入以下命令并按回车：
@@ -130,6 +138,8 @@ pnpm 是一个用于下载和管理 Astro 所需依赖包的工具，它比 Node
         pnpm --version
         ```
     *   如果看到版本号，恭喜你，所有环境准备工作都已完成！
+
+
 
 ---
 
